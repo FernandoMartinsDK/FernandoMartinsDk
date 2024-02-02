@@ -2,6 +2,11 @@
 - Atualmente trabalho na [Connect Corp](https://connectcorp.com.br)  como desenvolvedor web
 - Tenho uma boa experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware
 
+<div>  
+<a href="https://github.com/FernandoMartinsDk">  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMartinsDk&layout=compact&langs_count=7&theme=dracula"/>  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoMartinsDk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+</div>
+
 ## Minha Stack
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
