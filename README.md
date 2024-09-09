@@ -14,6 +14,7 @@
 ###
 
 <p align="left">- Atualmente trabalho na Connect Corp como desenvolvedor web<br>- Tenho uma boa experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware</p>
+<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/6d99c2133796483.61c5e24c9e4ad.gif"  />
 
 ###
 
@@ -88,10 +89,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/6d99c2133796483.61c5e24c9e4ad.gif"  />
 
 ###
 
