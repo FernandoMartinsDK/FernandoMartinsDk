@@ -2,6 +2,11 @@
 
 ###
 
+<p align="left">- Atualmente trabalho na Connect Corp como desenvolvedor web<br>- Tenho uma boa experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware</p>
+<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/6d99c2133796483.61c5e24c9e4ad.gif"  />
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -10,11 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoMartinsDK&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoMartinsDK&theme=nord&area=true&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
-
-###
-
-<p align="left">- Atualmente trabalho na Connect Corp como desenvolvedor web<br>- Tenho uma boa experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware</p>
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/6d99c2133796483.61c5e24c9e4ad.gif"  />
 
 ###
 
