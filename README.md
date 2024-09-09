@@ -2,19 +2,11 @@
 
 ###
 
-<p align="left">- Atualmente trabalho na Connect Corp como desenvolvedor web<br>- Tenho uma boa experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware</p>
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/6d99c2133796483.61c5e24c9e4ad.gif"  />
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/6d99c2133796483.61c5e24c9e4ad.gif"  />
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoMartinsDK&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FernandoMartinsDK&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoMartinsDK&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoMartinsDK&theme=nord&area=true&hide_title=true" height="150" alt="activity-graph graph"  />
-</div>
+<p align="left">- Atualmente trabalho na Connect Corp como desenvolvedor web<br>- Tenho uma boa experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware</p>
 
 ###
 
@@ -72,7 +64,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="fernandomartinsdk@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -91,6 +83,19 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoMartinsDK&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FernandoMartinsDK&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoMartinsDK&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoMartinsDK&theme=nord&area=true&hide_title=true" height="150" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/FernandoMartinsDK/FernandoMartinsDK/output/snake.svg" alt="Snake animation" />
 
